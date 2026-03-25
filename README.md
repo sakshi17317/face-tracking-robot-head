@@ -110,7 +110,7 @@ face-tracking-robot-head/
 
 ## 🙌 Author
 
-**Sakshi**
+**Sakshi Manjrekar**
 
 Made with ❤️ using Arduino and Python
 
